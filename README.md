@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm # Hi 👋, I'm Prakhar Bajpai ### A Curious Learner Exploring the World of Web Development 🚀</h1>
-<h3 align="center">A passionate Full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prakhar Bajpai</h1>
+<h3 align="center">### A Curious Learner Exploring the World of Web Development 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharbajpai123&label=Profile%20views&color=0e75b6&style=flat" alt="prakharbajpai123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharbajpai123" alt="prakharbajpai123" /></a> </p>
+
 
 - 🔭 I’m currently working on **🔭 I’m currently working on **Vingo**, a food delivery web app inspired by real-world platforms like Swiggy & Zomato. I’m following a YouTube tutorial to learn and build it step by step. (The project is still in progress and not yet uploaded on GitHub.)**
 
 - 🌱 What am I currently doing? **I’m currently revising my entire web development concepts with Sheryians Coding School through their Job Ready AI Powered Cohort 2.0, which covers Web Development, DSA, Aptitude & Reasoning, Web3, Generative AI, DevOps, and AWS. Even though I’ve already learned JavaScript before, I wasn’t confident enough in writing code or building logic. That’s why I joined this cohort — to strengthen my fundamentals, overcome my fear of JavaScript, and become truly job-ready. Through this program, I’m rebuilding my base, working on hands-on projects, and practicing concepts from HTML, CSS, and JS to advanced topics like React, Node.js, Databases, and Deployment — step by step.**
 
-- 👯 I’m looking to collaborate on **🌱 What am I currently doing? I’m revising my web development concepts with Sheryians Coding School’s Job Ready AI Powered Cohort 2.0, which covers Web Development, DSA, Aptitude, Web3, DevOps, and AWS. I had learned JavaScript earlier but wasn’t fully confident in logic building, so I joined this cohort to rebuild my fundamentals and become truly job-ready. Now I’m working on hands-on projects and strengthening my skills from HTML, CSS, JS to React, Node.js, and Deployment — step by step.**
+- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on beginner-friendly **frontend or JavaScript projects** to improve my skills and learn from others.**
 
 - 🤝 I’m looking for help with **🤝 I’m looking for help with strengthening my **JavaScript fundamentals**, **React concepts**, and **DSA practice**, as I’m currently revising and learning through **Sheryians Coding School’s Job Ready Cohort 2.0**.**
 
@@ -17,9 +17,9 @@
 
 - 📝 I regularly write articles on [📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) where I share my daily learning journey and projects from Sheryians Coding School.](📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) where I share my daily learning journey and projects from Sheryians Coding School.)
 
-- 💬 Ask me about **react,html,css,javascript,Gsap,animations**
+- 💬 Ask me about **Frontend Development, JavaScript, React**, and my learning journey with **Sheryians Coding School’s Job Ready Cohort 2.0**
 
-- 📫 How to reach me **Prakharbajpai234@gmail.com**
+- 📫 How to reach me **Connect with me on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) or drop an email at **Prakharbajpai234@gmail.com****
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15gcMzSW5w3g-VoU6niZ2kon49gO3LScl/view?usp=sharing](https://drive.google.com/file/d/15gcMzSW5w3g-VoU6niZ2kon49gO3LScl/view?usp=sharing)
 
@@ -39,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharbajpai123&show_icons=true&locale=en&layout=compact" alt="prakharbajpai123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharbajpai123&show_icons=true&locale=en" alt="prakharbajpai123" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharbajpai123&" alt="prakharbajpai123" /></p>
