@@ -5,25 +5,25 @@
 
 
 
-- 🔭 I’m currently working on **🔭 I’m currently working on **Vingo**, a food delivery web app inspired by real-world platforms like Swiggy & Zomato. I’m following a YouTube tutorial to learn and build it step by step. (The project is still in progress and not yet uploaded on GitHub.)**
+- 🔭 I’m currently working on **Vingo**, a food delivery web app inspired by real-world platforms like Swiggy & Zomato. I’m following a YouTube tutorial to learn and build it step by step. (The project is still in progress and not yet uploaded on GitHub.)**
 
 - 🌱 What am I currently doing? **I’m currently revising my entire web development concepts with Sheryians Coding School through their Job Ready AI Powered Cohort 2.0, which covers Web Development, DSA, Aptitude & Reasoning, Web3, Generative AI, DevOps, and AWS. Even though I’ve already learned JavaScript before, I wasn’t confident enough in writing code or building logic. That’s why I joined this cohort — to strengthen my fundamentals, overcome my fear of JavaScript, and become truly job-ready. Through this program, I’m rebuilding my base, working on hands-on projects, and practicing concepts from HTML, CSS, and JS to advanced topics like React, Node.js, Databases, and Deployment — step by step.**
 
 - 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on beginner-friendly **frontend or JavaScript projects** to improve my skills and learn from others.**
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with strengthening my **JavaScript fundamentals**, **React concepts**, and **DSA practice**, as I’m currently revising and learning through **Sheryians Coding School’s Job Ready Cohort 2.0**.**
+- 🤝 I’m looking for help with strengthening my **JavaScript fundamentals**, **React concepts**, and **DSA practice**, as I’m currently revising and learning through **Sheryians Coding School’s Job Ready Cohort 2.0**.**
 
-- 👨‍💻 All of my projects are available at [👨‍💻 All of my projects will soon be available on my **personal portfolio website** (under development). Until then, you can check out my work on [GitHub](https://github.com/PrakharBajpai123).](👨‍💻 All of my projects will soon be available on my **personal portfolio website** (under development). Until then, you can check out my work on [GitHub](https://github.com/PrakharBajpai123).)
+- 👨‍💻 All of my projects are available at (👨‍💻 All of my projects will soon be available on my **personal portfolio website** (under development). Until then, you can check out my work on [GitHub](https://github.com/PrakharBajpai123).)
 
-- 📝 I regularly write articles on [📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) where I share my daily learning journey and projects from Sheryians Coding School.](📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) where I share my daily learning journey and projects from Sheryians Coding School.)
+- 📝 I regularly write articles on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) where I share my daily learning journey and projects from Sheryians Coding School.]
 
 - 💬 Ask me about **Frontend Development, JavaScript, React**, and my learning journey with **Sheryians Coding School’s Job Ready Cohort 2.0**
 
 - 📫 How to reach me **Connect with me on [LinkedIn](www.linkedin.com/in/prakhar-bajpai8264) or drop an email at **Prakharbajpai234@gmail.com****
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15gcMzSW5w3g-VoU6niZ2kon49gO3LScl/view?usp=sharing](https://drive.google.com/file/d/15gcMzSW5w3g-VoU6niZ2kon49gO3LScl/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/15gcMzSW5w3g-VoU6niZ2kon49gO3LScl/view?usp=sharing)
 
-- ⚡ Fun fact **⚡ Fun fact: I used to be scared of JavaScript, but now I enjoy debugging it every day 😄**
+- ⚡ Fun fact  I used to be scared of JavaScript, but now I enjoy debugging it every day 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
